@@ -1,0 +1,10 @@
+Include the iostream header file in the program to use its functions.
+Include Include the iostream header file in the program to use its functions. :: 0 :: 0espace in our code to use its classes without calling it.
+Call th :: 0espace in our code to use its classes without calling it. :: 1eate an object of the fstream class and give it the name my_file.
+Apply eate an object of the fstream class and give it the name my_file. :: 2:: 2 allows us to write into the file.
+Use i:: 2 allows us to write into the file. :: 3failed.
+Messfailed. :: 4:: 4the console if the file was not created.
+End:: 4the console if the file was not created. :: 5ent to state what to do if the file was created.
+Meent to state what to do if the file was created. :: 6: 6Apply the close() function on the object to close the file.
+E: 6Apply the close() function on the object to close the file. :: 7e if it completes successfully.
+e if it completes successfully. :: 8 8
